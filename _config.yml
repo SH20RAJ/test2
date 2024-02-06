@@ -1,7 +1,1 @@
-plugins:
-  - jekyll-redirect-from
-
-permalink: /post.html?id=:title
-
-redirects:
-  - "/post/:title/": "/post.html?id=:title"
+permalink: /about/
